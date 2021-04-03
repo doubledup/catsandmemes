@@ -1,0 +1,5 @@
+dist/
+elm-stuff/
+index.html
+minify/
+node_modules/
